@@ -9,9 +9,10 @@
   <url>http://maven.apache.org</url>
   <properties>
     <sonar.host.url>http://13.126.181.128:9000/</sonar.host.url>
-	<sonar.login>sai</sonar.login>
-	<sonar.password>sai</sonar.password>
+    <sonar.login>sqa_ee5e3c29a2764782732f033b35e4b079aa57f6cc</sonar.login>
+    <!-- No need for sonar.password if using a token -->
   </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
