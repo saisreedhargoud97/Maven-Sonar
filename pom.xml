@@ -8,9 +8,9 @@
   <name>Bengaluru</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <sonar.host.url>http://3.112.217.27:9000/</sonar.host.url>
-	<sonar.login>admin</sonar.login>
-	<sonar.password>admin</sonar.password>
+    <sonar.host.url>hhttp://13.126.181.128:9000/</sonar.host.url>
+	<sonar.login>sai</sonar.login>
+	<sonar.password>sai</sonar.password>
   </properties>
   <dependencies>
     <dependency>
